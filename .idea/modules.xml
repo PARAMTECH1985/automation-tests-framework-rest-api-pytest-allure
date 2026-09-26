@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PythonBasics/.idea/PythonBasics.iml" filepath="$PROJECT_DIR$/../PythonBasics/.idea/PythonBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/automation-tests-framework-rest-api-pytest-allure.iml" filepath="$PROJECT_DIR$/.idea/automation-tests-framework-rest-api-pytest-allure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonDS/data-structure-python/.idea/data-structure-python.iml" filepath="$PROJECT_DIR$/../PythonDS/data-structure-python/.idea/data-structure-python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../makemyutsav-automation/.idea/makemyutsav-automation.iml" filepath="$PROJECT_DIR$/../makemyutsav-automation/.idea/makemyutsav-automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProjects/python-automation-problems/.idea/python-automation-problems.iml" filepath="$PROJECT_DIR$/../PythonProjects/python-automation-problems/.idea/python-automation-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PythonProjects/python-development/.idea/python-development.iml" filepath="$PROJECT_DIR$/../PythonProjects/python-development/.idea/python-development.iml" />
     </modules>
   </component>
 </project>

@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PythonDS/data-structure-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PythonProjects/python-automation-problems" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PythonProjects/python-development" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../makemyutsav-automation" vcs="Git" />
   </component>
 </project>

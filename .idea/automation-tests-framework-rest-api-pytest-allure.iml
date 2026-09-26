@@ -6,9 +6,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PythonBasics" />
+    <orderEntry type="module" module-name="data-structure-python" />
+    <orderEntry type="module" module-name="python-development" />
+    <orderEntry type="module" module-name="python-automation-problems" />
+    <orderEntry type="module" module-name="makemyutsav-automation" />
   </component>
-  <component name="PackageRequirementsSettings" />
-  <component name="PyDocumentationSettings" />
-  <component name="ReSTService" />
-  <component name="TestRunnerService" />
 </module>
