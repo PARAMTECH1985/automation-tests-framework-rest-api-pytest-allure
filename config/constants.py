@@ -55,5 +55,13 @@ APP_VERSION = "/api/app-version"
 # vendor-admin-controller
 # vendor-booking-controller
 # vendor-controller
+VENDOR_ADDRESS="/api/vendor/address"
+VENDOR_BANK_DETAILS="/api/vendor/bank-details"
+VENDOR_ME="/api/vendor/me"
+VENDOR_PROFILE_PICTURES="/vendor/me/profile-pic"
+VENDOR_TOGGLE_ONLINE="/api/vendor/toggle-online"
 # vendor-earnings-controller
+VENDOR_EARNINGS = "/api/vendor/earnings"
+VENDOR_EARNINGS_history = "/api/vendor/earnings/history"
 # vendor-public-controller
+VENDORS_NEAR_BY = "/api/vendors/nearby"
